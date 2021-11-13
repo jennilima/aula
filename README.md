@@ -1,2 +1,2 @@
 #  projeto 06
-animacção
+animação
